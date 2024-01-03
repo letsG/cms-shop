@@ -1,6 +1,6 @@
 {
-  "commit": "2c868df05a49bd7787eb9cae3257ffdd7d7fc3d0",
-  "generated": "2024-01-03T22:47:28.904Z",
+  "commit": "d1de28b3335a1f22a1d365f355344f79901ee2cc",
+  "generated": "Wed, 03 Jan 2024 22:47:44 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -122,7 +122,7 @@
     },
     {
       "__outstatic": {
-        "commit": "2c868df05a49bd7787eb9cae3257ffdd7d7fc3d0",
+        "commit": "105b53de3db429ea0305ca43409b618af4ad228c",
         "hash": "2166460232",
         "path": "outstatic/content/posts/nothing-wrong.md"
       },
