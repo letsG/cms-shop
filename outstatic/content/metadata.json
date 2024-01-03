@@ -1,6 +1,6 @@
 {
-  "commit": "3cc9b415d3a1aa94d26c6e84b35a943e826739a6",
-  "generated": "2024-01-03T22:48:15.198Z",
+  "commit": "56258fd75264c811ce853ad3239783d4fcd1418d",
+  "generated": "2024-01-03T22:54:14.184Z",
   "metadata": [
     {
       "__outstatic": {
@@ -141,8 +141,8 @@
     },
     {
       "__outstatic": {
-        "commit": "3cc9b415d3a1aa94d26c6e84b35a943e826739a6",
-        "hash": "397082696",
+        "commit": "56258fd75264c811ce853ad3239783d4fcd1418d",
+        "hash": "3543281926",
         "path": "outstatic/content/posts/embed-good.md"
       },
       "author": {
