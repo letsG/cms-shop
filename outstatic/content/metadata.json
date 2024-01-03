@@ -1,6 +1,6 @@
 {
-  "commit": "56258fd75264c811ce853ad3239783d4fcd1418d",
-  "generated": "2024-01-03T22:54:14.184Z",
+  "commit": "8242e773aa358b3f59767cc007cd0915397470f4",
+  "generated": "2024-01-03T22:54:47.047Z",
   "metadata": [
     {
       "__outstatic": {
@@ -158,6 +158,26 @@
       "tags": [
       ],
       "title": "embed-good"
+    },
+    {
+      "__outstatic": {
+        "commit": "8242e773aa358b3f59767cc007cd0915397470f4",
+        "hash": "4221381440",
+        "path": "outstatic/content/posts/ass.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/42511280?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-01-03T23:06:36.721Z",
+      "slug": "ass",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "ass"
     }
   ]
 }
