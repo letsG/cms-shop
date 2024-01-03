@@ -4,9 +4,9 @@ status: 'published'
 author:
   name: 'Andre Vitorio'
 slug: 'nothing-wrong'
-description: 'One more day, one more joy. I feel blessed.'
+description: ''
 coverImage: '/images/industrial-pattern.png'
-tags: ''
+tags: []
 publishedAt: '2022-09-14T17:55:40.452Z'
 ---
 
