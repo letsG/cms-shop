@@ -1,7 +1,27 @@
 {
-  "commit": "8242e773aa358b3f59767cc007cd0915397470f4",
-  "generated": "2024-01-03T22:54:47.047Z",
+  "commit": "e5418c4efa3eb0502888430e77860ca767bc8944",
+  "generated": "Wed, 03 Jan 2024 22:55:05 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "cbc77fde866308f7c2fea21f1ff92fa9c6446f9d",
+        "hash": "4221381440",
+        "path": "outstatic/content/posts/ass.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/42511280?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-01-03T23:06:36.721Z",
+      "slug": "ass",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "ass"
+    },
     {
       "__outstatic": {
         "commit": "525018a11c751fe66b5d0737807e67e06955cecd",
@@ -32,6 +52,26 @@
         }
       ],
       "title": "Learn how to create your blog with Outstatic"
+    },
+    {
+      "__outstatic": {
+        "commit": "cacf92a0714eb5c0e55a2c6eaa0fb959ae29fc20",
+        "hash": "3543281926",
+        "path": "outstatic/content/posts/embed-good.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/42511280?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-01-03T23:00:05.050Z",
+      "slug": "embed-good",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "embed-good"
     },
     {
       "__outstatic": {
@@ -122,7 +162,7 @@
     },
     {
       "__outstatic": {
-        "commit": "105b53de3db429ea0305ca43409b618af4ad228c",
+        "commit": "da80829efdb68d3c7d4e82525189f714442684ac",
         "hash": "2166460232",
         "path": "outstatic/content/posts/nothing-wrong.md"
       },
@@ -138,46 +178,6 @@
       "tags": [
       ],
       "title": "Nothing is wrong. Everything is perfect"
-    },
-    {
-      "__outstatic": {
-        "commit": "56258fd75264c811ce853ad3239783d4fcd1418d",
-        "hash": "3543281926",
-        "path": "outstatic/content/posts/embed-good.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/42511280?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-01-03T23:00:05.050Z",
-      "slug": "embed-good",
-      "status": "draft",
-      "tags": [
-      ],
-      "title": "embed-good"
-    },
-    {
-      "__outstatic": {
-        "commit": "8242e773aa358b3f59767cc007cd0915397470f4",
-        "hash": "4221381440",
-        "path": "outstatic/content/posts/ass.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/42511280?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-01-03T23:06:36.721Z",
-      "slug": "ass",
-      "status": "draft",
-      "tags": [
-      ],
-      "title": "ass"
     }
   ]
 }
