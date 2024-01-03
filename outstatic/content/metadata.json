@@ -1,26 +1,25 @@
 {
-  "commit": "59a55c781a1f8d9d094a080438f1b118bd770319",
-  "generated": "2024-01-03T22:57:43.216Z",
+  "commit": "df8fa31231fa0ce7e3ab3a6a628444b5845617e9",
+  "generated": "Wed, 03 Jan 2024 22:59:06 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "cbc77fde866308f7c2fea21f1ff92fa9c6446f9d",
-        "hash": "4221381440",
-        "path": "outstatic/content/posts/ass.md"
+        "commit": "da80829efdb68d3c7d4e82525189f714442684ac",
+        "hash": "2166460232",
+        "path": "outstatic/content/posts/nothing-wrong.md"
       },
       "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/42511280?v=4"
+        "name": "Andre Vitorio"
       },
       "collection": "posts",
-      "coverImage": "",
+      "coverImage": "/images/industrial-pattern.png",
       "description": "",
-      "publishedAt": "2024-01-03T23:06:36.721Z",
-      "slug": "ass",
-      "status": "draft",
+      "publishedAt": "2022-09-14T17:55:40.452Z",
+      "slug": "nothing-wrong",
+      "status": "published",
       "tags": [
       ],
-      "title": "ass"
+      "title": "Nothing is wrong. Everything is perfect"
     },
     {
       "__outstatic": {
@@ -72,6 +71,25 @@
       "tags": [
       ],
       "title": "embed-good"
+    },
+    {
+      "__outstatic": {
+        "commit": "cbc77fde866308f7c2fea21f1ff92fa9c6446f9d",
+        "hash": "4221381440",
+        "path": "outstatic/content/posts/ass.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/42511280?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-01-03T23:06:36.721Z",
+      "slug": "ass",
+      "status": "draft",
+      "tags": "",
+      "title": "ass"
     },
     {
       "__outstatic": {
@@ -162,26 +180,7 @@
     },
     {
       "__outstatic": {
-        "commit": "da80829efdb68d3c7d4e82525189f714442684ac",
-        "hash": "2166460232",
-        "path": "outstatic/content/posts/nothing-wrong.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/industrial-pattern.png",
-      "description": "",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "nothing-wrong",
-      "status": "published",
-      "tags": [
-      ],
-      "title": "Nothing is wrong. Everything is perfect"
-    },
-    {
-      "__outstatic": {
-        "commit": "59a55c781a1f8d9d094a080438f1b118bd770319",
+        "commit": "5f259d2f00b558e8665a6c24a22630601a6e9c6a",
         "hash": "1672535758",
         "path": "outstatic/content/posts/test-embed-good.md"
       },
@@ -195,8 +194,7 @@
       "publishedAt": "2024-01-03T23:09:35.259Z",
       "slug": "test-embed-good",
       "status": "draft",
-      "tags": [
-      ],
+      "tags": "",
       "title": "test-embed-good"
     }
   ]
