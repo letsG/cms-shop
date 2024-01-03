@@ -1,30 +1,12 @@
 {
-  "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-  "generated": "2024-01-03T22:46:31.076Z",
+  "commit": "d1de28b3335a1f22a1d365f355344f79901ee2cc",
+  "generated": "Wed, 03 Jan 2024 22:46:41 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "2e47122b5b6d49d6d1ddb15bcd33edc4a0c1256e",
-        "hash": "217348983",
-        "path": "/outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "bf4993b965319da4cb9de4a3810fb4af12bdebd6",
-        "hash": "2596208214",
-        "path": "/outstatic/content/posts/how-to-create-an-outstatic-blog.md"
+        "commit": "525018a11c751fe66b5d0737807e67e06955cecd",
+        "hash": "2506648264",
+        "path": "outstatic/content/posts/how-to-create-an-outstatic-blog.md"
       },
       "author": {
         "name": "Andre Vitorio"
@@ -53,26 +35,62 @@
     },
     {
       "__outstatic": {
-        "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
-        "hash": "3707858083",
-        "path": "/outstatic/content/posts/the-wrong-decision.md"
+        "commit": "2e47122b5b6d49d6d1ddb15bcd33edc4a0c1256e",
+        "hash": "217348983",
+        "path": "outstatic/content/pages/home.md"
       },
       "author": {
-        "name": "Naval Ravikant"
+        "name": "Andre Vitorio",
+        "picture": ""
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "This is my blog.",
+      "publishedAt": "2022-03-17T05:35:07.322Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "105b53de3db429ea0305ca43409b618af4ad228c",
+        "hash": "4086614036",
+        "path": "outstatic/content/posts/nothing-wrong.md"
+      },
+      "author": {
+        "name": "Andre Vitorio"
       },
       "collection": "posts",
-      "coverImage": "/images/skyline.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-03-26T05:35:07.322Z",
-      "slug": "the-wrong-decision",
+      "coverImage": "/images/industrial-pattern.png",
+      "description": "One more day, one more joy. I feel blessed.",
+      "publishedAt": "2022-09-14T17:55:40.452Z",
+      "slug": "nothing-wrong",
       "status": "published",
-      "title": "If you want to make the wrong decision, ask everyone"
+      "title": "Nothing is wrong. Everything is perfect"
+    },
+    {
+      "__outstatic": {
+        "commit": "b22b0f4f3d38a659cbab9b89ac2b7394f2446de4",
+        "hash": "425893791",
+        "path": "outstatic/content/projects/flycream-travel.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "/images/flycream-travel.png",
+      "description": "One more day, one more joy. I feel blessed.",
+      "publishedAt": "2022-09-14T17:55:40.452Z",
+      "slug": "flycream-travel",
+      "status": "published",
+      "title": "Flycream Travel"
     },
     {
       "__outstatic": {
         "commit": "aa1f387e5c66347e675bed0862b070d8946c95f4",
         "hash": "1055690014",
-        "path": "/outstatic/content/projects/couple-pizza.md"
+        "path": "outstatic/content/projects/couple-pizza.md"
       },
       "author": {
         "name": "Bob Marley"
@@ -89,7 +107,7 @@
       "__outstatic": {
         "commit": "caeb954ea1579e04b6b74c80ddf718e56c60a67d",
         "hash": "1076515129",
-        "path": "/outstatic/content/projects/bearbnb.md"
+        "path": "outstatic/content/projects/bearbnb.md"
       },
       "author": {
         "name": "Andre Vitorio"
@@ -104,40 +122,20 @@
     },
     {
       "__outstatic": {
-        "commit": "b22b0f4f3d38a659cbab9b89ac2b7394f2446de4",
-        "hash": "425893791",
-        "path": "/outstatic/content/projects/flycream-travel.md"
+        "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
+        "hash": "3707858083",
+        "path": "outstatic/content/posts/the-wrong-decision.md"
       },
       "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "projects",
-      "coverImage": "/images/flycream-travel.png",
-      "description": "One more day, one more joy. I feel blessed.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "flycream-travel",
-      "status": "published",
-      "title": "Flycream Travel"
-    },
-    {
-      "__outstatic": {
-        "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-        "hash": "2723329901",
-        "path": "outstatic/content/posts/nothing-wrong.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
+        "name": "Naval Ravikant"
       },
       "collection": "posts",
-      "coverImage": "/images/industrial-pattern.png",
-      "description": "One more day, one more joy. I feel blessed.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "nothing-wrong",
+      "coverImage": "/images/skyline.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "publishedAt": "2022-03-26T05:35:07.322Z",
+      "slug": "the-wrong-decision",
       "status": "published",
-      "tags": [
-      ],
-      "title": "Nothing is wrong. Everything is perfect"
+      "title": "If you want to make the wrong decision, ask everyone"
     }
   ]
 }
