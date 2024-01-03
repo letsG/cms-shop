@@ -1,6 +1,6 @@
 {
-  "commit": "d1de28b3335a1f22a1d365f355344f79901ee2cc",
-  "generated": "Wed, 03 Jan 2024 22:47:44 GMT",
+  "commit": "3cc9b415d3a1aa94d26c6e84b35a943e826739a6",
+  "generated": "2024-01-03T22:48:15.198Z",
   "metadata": [
     {
       "__outstatic": {
@@ -138,6 +138,26 @@
       "tags": [
       ],
       "title": "Nothing is wrong. Everything is perfect"
+    },
+    {
+      "__outstatic": {
+        "commit": "3cc9b415d3a1aa94d26c6e84b35a943e826739a6",
+        "hash": "397082696",
+        "path": "outstatic/content/posts/embed-good.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/42511280?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-01-03T23:00:05.050Z",
+      "slug": "embed-good",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "embed-good"
     }
   ]
 }
