@@ -8,6 +8,11 @@ import { getDocumentSlugs, load } from 'outstatic/server'
 import DateFormatter from '@/components/DateFormatter'
 import { absoluteUrl } from '@/lib/utils'
 import { notFound } from 'next/navigation'
+import createDOMPurify from 'dompurify'
+import { JSDOM } from 'jsdom'
+
+const window = (new JSDOM('')).window
+const DOMPurify = createDOMPurify(window)
 
 type Post = {
   tags: { value: string; label: string }[]
@@ -91,7 +96,7 @@ export default async function Post(params: Params) {
           <div className="max-w-2xl mx-auto">
             <div
               className="prose lg:prose-xl"
-              dangerouslySetInnerHTML={{ __html: post.content }}
+              dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(post.content) }}
             />
           </div>
         </article>
