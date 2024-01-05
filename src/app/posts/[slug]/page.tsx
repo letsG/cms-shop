@@ -11,6 +11,7 @@ import { notFound } from 'next/navigation'
 
 type Post = {
   tags: { value: string; label: string }[]
+  embedHtml: string
 } & OstDocument
 
 interface Params {
@@ -54,6 +55,7 @@ export async function generateMetadata(params: Params): Promise<Metadata> {
 
 export default async function Post(params: Params) {
   const post = await getData(params)
+
   return (
     <Layout>
       <div className="max-w-6xl mx-auto px-5">
@@ -89,7 +91,7 @@ export default async function Post(params: Params) {
           <div className="max-w-2xl mx-auto">
             <div
               className="prose lg:prose-xl"
-              dangerouslySetInnerHTML={{ __html: post.content }}
+              dangerouslySetInnerHTML={{ __html: post.embedHtml || post.content }}
             />
           </div>
         </article>
