@@ -120,7 +120,7 @@ async function getData({ params }: Params) {
     notFound()
   }
 
-  const content = await markdownToHtml(post.content)
+  const content = post.embedHtml ? post.content: await markdownToHtml(post.content)
 
   return {
     ...post,
