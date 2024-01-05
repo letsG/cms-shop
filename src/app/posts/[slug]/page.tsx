@@ -91,7 +91,7 @@ export default async function Post(params: Params) {
           <div className="max-w-2xl mx-auto">
             <div
               className="prose lg:prose-xl"
-              dangerouslySetInnerHTML={{ __html: post.embedHtml || post.content }}
+              dangerouslySetInnerHTML={{ __html: post.content }}
             />
           </div>
         </article>
