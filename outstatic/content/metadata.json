@@ -1,6 +1,6 @@
 {
-  "commit": "6e5c9c7bbe162d99a6dcf64bb6f7bf1177085232",
-  "generated": "Tue, 16 Jan 2024 20:01:01 GMT",
+  "commit": "f85d4bbb4d97cd283efcbd204db48a1372c3abc5",
+  "generated": "2024-01-16T20:07:13.285Z",
   "metadata": [
     {
       "__outstatic": {
@@ -122,26 +122,6 @@
     },
     {
       "__outstatic": {
-        "commit": "4b8bd64da242d8afd1728211112b94d851a05e7e",
-        "hash": "1750473692",
-        "path": "outstatic/content/products/planet-express-shirt.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/42511280?v=4"
-      },
-      "collection": "products",
-      "coverImage": "",
-      "description": "",
-      "id": "8341798551807",
-      "productId": "1705425423410",
-      "publishedAt": "2024-01-15T23:34:50.150Z",
-      "slug": "planet-express-shirt",
-      "status": "draft",
-      "title": "planet-express-shirt"
-    },
-    {
-      "__outstatic": {
         "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
         "hash": "3707858083",
         "path": "outstatic/content/posts/the-wrong-decision.md"
@@ -156,6 +136,26 @@
       "slug": "the-wrong-decision",
       "status": "published",
       "title": "If you want to make the wrong decision, ask everyone"
+    },
+    {
+      "__outstatic": {
+        "commit": "f85d4bbb4d97cd283efcbd204db48a1372c3abc5",
+        "hash": "288462498",
+        "path": "outstatic/content/products/planet-express-shirt.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/42511280?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/unisex-garment-dyed-heavyweight-t-shirt-black-back-6595c14f40a6c-A5Mz.jpg",
+      "description": "",
+      "id": "8341798551807",
+      "productId": "1705425423410",
+      "publishedAt": "2024-01-15T23:34:50.150Z",
+      "slug": "planet-express-shirt",
+      "status": "draft",
+      "title": "planet-express-shirt"
     }
   ]
 }
