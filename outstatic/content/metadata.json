@@ -1,6 +1,6 @@
 {
   "commit": "29473c6c1e15e5c7a2d374b6435e2185022eda00",
-  "generated": "2024-01-16T17:20:33.140Z",
+  "generated": "2024-01-16T17:20:47.149Z",
   "metadata": [
     {
       "__outstatic": {
@@ -140,8 +140,8 @@
     {
       "__outstatic": {
         "commit": "29473c6c1e15e5c7a2d374b6435e2185022eda00",
-        "hash": "1311131827",
-        "path": "outstatic/content/products/test.md"
+        "hash": "1750473692",
+        "path": "outstatic/content/products/planet-express-shirt.md"
       },
       "author": {
         "name": "",
@@ -153,7 +153,7 @@
       "id": "8341798551807",
       "productId": "1705425423410",
       "publishedAt": "2024-01-15T23:34:50.150Z",
-      "slug": "test",
+      "slug": "planet-express-shirt",
       "status": "draft",
       "title": "planet-express-shirt"
     }
