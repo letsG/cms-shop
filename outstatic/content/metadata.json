@@ -1,6 +1,6 @@
 {
-  "commit": "f85d4bbb4d97cd283efcbd204db48a1372c3abc5",
-  "generated": "2024-01-16T20:07:13.285Z",
+  "commit": "622728435fd743d21264c5b5e81b6aa4ad243e19",
+  "generated": "Tue, 16 Jan 2024 20:10:18 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -122,24 +122,7 @@
     },
     {
       "__outstatic": {
-        "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
-        "hash": "3707858083",
-        "path": "outstatic/content/posts/the-wrong-decision.md"
-      },
-      "author": {
-        "name": "Naval Ravikant"
-      },
-      "collection": "posts",
-      "coverImage": "/images/skyline.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-03-26T05:35:07.322Z",
-      "slug": "the-wrong-decision",
-      "status": "published",
-      "title": "If you want to make the wrong decision, ask everyone"
-    },
-    {
-      "__outstatic": {
-        "commit": "f85d4bbb4d97cd283efcbd204db48a1372c3abc5",
+        "commit": "242141cd0431145e4b9aae7623e5333eaee5b4fe",
         "hash": "288462498",
         "path": "outstatic/content/products/planet-express-shirt.md"
       },
@@ -156,6 +139,23 @@
       "slug": "planet-express-shirt",
       "status": "draft",
       "title": "planet-express-shirt"
+    },
+    {
+      "__outstatic": {
+        "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
+        "hash": "3707858083",
+        "path": "outstatic/content/posts/the-wrong-decision.md"
+      },
+      "author": {
+        "name": "Naval Ravikant"
+      },
+      "collection": "posts",
+      "coverImage": "/images/skyline.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "publishedAt": "2022-03-26T05:35:07.322Z",
+      "slug": "the-wrong-decision",
+      "status": "published",
+      "title": "If you want to make the wrong decision, ask everyone"
     }
   ]
 }
