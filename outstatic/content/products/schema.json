@@ -1,0 +1,13 @@
+{
+  "title": "products",
+  "type": "object",
+  "properties": {
+    "productId": {
+      "required": true,
+      "description": "shopify embed product_id example id='product-component-product-component-<product_id>'",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "product_id"
+    }
+  }
+}
