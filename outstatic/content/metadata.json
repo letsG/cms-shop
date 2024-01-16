@@ -1,6 +1,6 @@
 {
-  "commit": "622728435fd743d21264c5b5e81b6aa4ad243e19",
-  "generated": "Tue, 16 Jan 2024 20:10:18 GMT",
+  "commit": "d1f8d270dc6eab9bb98362870e0daa648ce01f0c",
+  "generated": "2024-01-16T20:41:56.752Z",
   "metadata": [
     {
       "__outstatic": {
@@ -122,26 +122,6 @@
     },
     {
       "__outstatic": {
-        "commit": "242141cd0431145e4b9aae7623e5333eaee5b4fe",
-        "hash": "288462498",
-        "path": "outstatic/content/products/planet-express-shirt.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/42511280?v=4"
-      },
-      "collection": "products",
-      "coverImage": "/images/unisex-garment-dyed-heavyweight-t-shirt-black-back-6595c14f40a6c-A5Mz.jpg",
-      "description": "",
-      "id": "8341798551807",
-      "productId": "1705425423410",
-      "publishedAt": "2024-01-15T23:34:50.150Z",
-      "slug": "planet-express-shirt",
-      "status": "draft",
-      "title": "planet-express-shirt"
-    },
-    {
-      "__outstatic": {
         "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
         "hash": "3707858083",
         "path": "outstatic/content/posts/the-wrong-decision.md"
@@ -156,6 +136,26 @@
       "slug": "the-wrong-decision",
       "status": "published",
       "title": "If you want to make the wrong decision, ask everyone"
+    },
+    {
+      "__outstatic": {
+        "commit": "d1f8d270dc6eab9bb98362870e0daa648ce01f0c",
+        "hash": "2113363195",
+        "path": "outstatic/content/products/planet-express-shirt.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/42511280?v=4"
+      },
+      "collection": "products",
+      "coverImage": "/images/unisex-garment-dyed-heavyweight-t-shirt-black-back-6595c14f40a6c-A5Mz.jpg",
+      "description": "If you’re looking for a thick, structured tee that’s also super soft and breathable—look no further! The men’s garment-dyed heavyweight t-shirt ticks all the boxes and is made of 100% ring-spun cotton. The regular t-shirt style will complement most looks and fit you to a tee. • 100% ring-spun cotton • Fabric weight: 6.1 oz/yd² (206.8 g/m²) • Garment-dyed • Relaxed fit • 7/8″ double-needle topstitched collar • Twill-taped neck and shoulders for extra durability • Double-needle armhole, sleeve, and bottom hems • Blank product sourced from Honduras This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!",
+      "id": "8341798551807",
+      "productId": "1705425423410",
+      "publishedAt": "2024-01-15T23:34:50.150Z",
+      "slug": "planet-express-shirt",
+      "status": "draft",
+      "title": "planet-express-shirt"
     }
   ]
 }
