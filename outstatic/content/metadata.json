@@ -1,6 +1,6 @@
 {
-  "commit": "6e5c9c7bbe162d99a6dcf64bb6f7bf1177085232",
-  "generated": "Tue, 16 Jan 2024 20:01:01 GMT",
+  "commit": "622728435fd743d21264c5b5e81b6aa4ad243e19",
+  "generated": "Tue, 16 Jan 2024 20:10:18 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -122,8 +122,8 @@
     },
     {
       "__outstatic": {
-        "commit": "4b8bd64da242d8afd1728211112b94d851a05e7e",
-        "hash": "1750473692",
+        "commit": "242141cd0431145e4b9aae7623e5333eaee5b4fe",
+        "hash": "288462498",
         "path": "outstatic/content/products/planet-express-shirt.md"
       },
       "author": {
@@ -131,7 +131,7 @@
         "picture": "https://avatars.githubusercontent.com/u/42511280?v=4"
       },
       "collection": "products",
-      "coverImage": "",
+      "coverImage": "/images/unisex-garment-dyed-heavyweight-t-shirt-black-back-6595c14f40a6c-A5Mz.jpg",
       "description": "",
       "id": "8341798551807",
       "productId": "1705425423410",
