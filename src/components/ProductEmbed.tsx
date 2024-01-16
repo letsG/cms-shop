@@ -1,6 +1,7 @@
 'use client'
 import {useEffect, useRef} from "react";
 import {shopifyLoad} from "@/lib/shopifyLoad";
+import Product from "@/components/Product";
 
 const ProductEmbed = ({product}: {
     product: {
@@ -16,9 +17,7 @@ const ProductEmbed = ({product}: {
         shopifyLoad(product.id, product.productId)
     }, [product])
 
-    return (
-        <div id={`product-component-${product.productId}`}></div>
-    )
+    return <Product product={product || undefined} loaded={current}/>
 }
 
 export default ProductEmbed

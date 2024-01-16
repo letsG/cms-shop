@@ -41,7 +41,8 @@ export const shopifyLoad = (id: string, productId: string) => {
                                     "margin-bottom": "50px"
                                 },
                                 "padding": "24px",
-                                "text-align": "left"
+                                "text-align": "left",
+                                "min-height": "100vh"
                             },
                             "title": {
                                 "font-size": "26px"

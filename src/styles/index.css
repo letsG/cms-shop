@@ -5,3 +5,10 @@
 .home-intro p {
   @apply text-2xl font-semibold leading-9;
 }
+body {
+  height: 100vh;
+    @apply flex flex-col justify-center items-center;
+}
+body .spinner {
+  @apply w-16 h-16 border-4 border-gray-200 rounded-full animate-spin;
+}

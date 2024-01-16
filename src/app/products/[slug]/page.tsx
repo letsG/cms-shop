@@ -1,4 +1,3 @@
-import markdownToHtml from '@/lib/markdownToHtml'
 import { getDocumentSlugs, load } from 'outstatic/server'
 import ProductEmbed from '@/components/ProductEmbed'
 import { OstDocument } from 'outstatic'
@@ -50,7 +49,7 @@ export async function generateMetadata(params: Params): Promise<Metadata> {
 }
 
 export default async function Product(params: Params) {
-  const { product, moreProducts, content } = await getData(params)
+  const { product } = await getData(params)
 
   return <ProductEmbed product={product}/>
 }
@@ -75,20 +74,8 @@ async function getData({ params }: Params) {
     notFound()
   }
 
-  const content = await markdownToHtml(product.content)
-
-  const moreProducts = await db
-    .find({ collection: 'products', slug: { $ne: params.slug } }, [
-      'title',
-      'slug',
-      'coverImage'
-    ])
-    .toArray()
-
   return {
     product,
-    content,
-    moreProducts
   }
 }
 
