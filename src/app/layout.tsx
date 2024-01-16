@@ -17,8 +17,8 @@ export const metadata: Metadata = {
     images: [
       {
         url: absoluteUrl('/images/og-image.png'),
-        width: 1800,
-        height: 1600
+        width: 512,
+        height: 512
       }
     ],
     locale: 'en_US',
