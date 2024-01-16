@@ -17,7 +17,7 @@ const ProductEmbed = ({product}: {
         shopifyLoad(product.id, product.productId)
     }, [product])
 
-    return <Product product={product || undefined} loaded={current}/>
+    return <Product product={product} loaded />
 }
 
 export default ProductEmbed

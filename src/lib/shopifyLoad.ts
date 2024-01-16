@@ -1,4 +1,4 @@
-export const shopifyLoad = (id: string, productId: string) => {
+export const shopifyLoad = async (id: string, productId: string) => {
     var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
     // @ts-ignore
     if (window?.ShopifyBuy) {
