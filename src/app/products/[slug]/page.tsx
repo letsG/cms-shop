@@ -32,7 +32,7 @@ export async function generateMetadata(params: Params): Promise<Metadata> {
       url: absoluteUrl(`/products/${product.slug}`),
       images: [
         {
-          url: absoluteUrl(product?.coverImage || '/images/og-image.png'),
+          url: absoluteUrl(product?.coverImage || '/images/og-image.png?cache=0'),
           width: 1200,
           height: 630,
           alt: product.title
@@ -43,7 +43,7 @@ export async function generateMetadata(params: Params): Promise<Metadata> {
       card: 'summary_large_image',
       title: product.title,
       description: product.description,
-      images: absoluteUrl(product?.coverImage || '/images/og-image.png')
+      images: absoluteUrl(product?.coverImage || '/images/og-image.png?cache=0')
     }
   }
 }
