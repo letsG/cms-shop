@@ -35,13 +35,11 @@ export const shopifyLoad = (id: string, productId: string) => {
                     "product": {
                         "styles": {
                             "product": {
-                                minWidth: "calc(100% - 48px)",
                                 "@media (min-width: 601px)": {
                                     "max-width": "100%",
                                     "margin-left": "0",
                                     "margin-bottom": "50px"
                                 },
-                                "padding": "24px",
                                 "text-align": "left",
                                 "min-height": "100vh"
                             },

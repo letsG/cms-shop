@@ -6,7 +6,9 @@
   @apply text-2xl font-semibold leading-9;
 }
 body {
+  width: 100vw;
   height: 100vh;
+  padding: 24px;
     @apply flex flex-col justify-center items-center;
 }
 body .spinner {
