@@ -6,7 +6,7 @@ const Product = ({loaded, product}: {loaded: boolean, product?: {productId: stri
         return <p>not found</p>
 
     return (
-        <div style={{minHeight: '100vh'}} id={`product-component-${product.productId}`}></div>
+        <div id={`product-component-${product.productId}`}></div>
     )
 }
 
