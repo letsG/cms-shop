@@ -40,6 +40,7 @@ export const shopifyLoad = (id: string, productId: string) => {
                                     "margin-left": "0",
                                     "margin-bottom": "50px"
                                 },
+                                "padding": "24px",
                                 "text-align": "left"
                             },
                             "title": {
