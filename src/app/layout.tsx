@@ -3,20 +3,20 @@ import { Metadata } from 'next'
 import '../styles/index.css'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://outstatic.com'),
+  metadataBase: new URL('https://flex-shop.com'),
   title: {
-    default: 'Outstatic',
-    template: '%s | Outstatic'
+    default: 'Flex-Shop',
+    template: '%s | FlexShop.Top'
   },
-  description: 'A blog starter built with Outstatic.',
+  description: 'Flexible e-shop for any goods',
   openGraph: {
-    title: 'Outstatic - A Static Site CMS for Next.js',
-    description: 'A blog starter built with Outstatic.',
+    title: 'Flex-Shop - A Static Site e-shop for Next.js',
+    description: 'A e-shop for any goods built with Outstatic.',
     url: absoluteUrl('/'),
-    siteName: 'Next.js',
+    siteName: 'Flex-Shop.Top',
     images: [
       {
-        url: absoluteUrl('/images/og-image.png'),
+        url: absoluteUrl('/images/main.png'),
         width: 1800,
         height: 1600
       }
@@ -24,10 +24,6 @@ export const metadata: Metadata = {
     locale: 'en_US',
     type: 'website'
   },
-  icons: {
-    icon: [{ url: '/favicon/favicon-32x32.png' }],
-    apple: [{ url: '/favicon/apple-touch-icon.png' }]
-  }
 }
 
 export default function RootLayout({
