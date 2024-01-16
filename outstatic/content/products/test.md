@@ -1,5 +1,5 @@
 ---
-title: 'test'
+title: 'planet-express-shirt'
 status: 'draft'
 author:
   name: ''
@@ -7,6 +7,8 @@ author:
 slug: 'test'
 description: ''
 coverImage: ''
+productId: '1705425423410'
+id: '8341798551807'
 publishedAt: '2024-01-15T23:34:50.150Z'
 ---
 

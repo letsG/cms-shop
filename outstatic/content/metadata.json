@@ -1,6 +1,6 @@
 {
-  "commit": "02077450d0216ea9a8e3dde3c43c356d3649de69",
-  "generated": "Mon, 15 Jan 2024 23:27:08 GMT",
+  "commit": "29473c6c1e15e5c7a2d374b6435e2185022eda00",
+  "generated": "2024-01-16T17:20:33.140Z",
   "metadata": [
     {
       "__outstatic": {
@@ -122,24 +122,6 @@
     },
     {
       "__outstatic": {
-        "commit": "291857982841176e3c14042f794f7eacfdf34316",
-        "hash": "1959005659",
-        "path": "outstatic/content/products/test.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/42511280?v=4"
-      },
-      "collection": "products",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-01-15T23:34:50.150Z",
-      "slug": "test",
-      "status": "draft",
-      "title": "test"
-    },
-    {
-      "__outstatic": {
         "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
         "hash": "3707858083",
         "path": "outstatic/content/posts/the-wrong-decision.md"
@@ -154,6 +136,26 @@
       "slug": "the-wrong-decision",
       "status": "published",
       "title": "If you want to make the wrong decision, ask everyone"
+    },
+    {
+      "__outstatic": {
+        "commit": "29473c6c1e15e5c7a2d374b6435e2185022eda00",
+        "hash": "1311131827",
+        "path": "outstatic/content/products/test.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/42511280?v=4"
+      },
+      "collection": "products",
+      "coverImage": "",
+      "description": "",
+      "id": "8341798551807",
+      "productId": "1705425423410",
+      "publishedAt": "2024-01-15T23:34:50.150Z",
+      "slug": "test",
+      "status": "draft",
+      "title": "planet-express-shirt"
     }
   ]
 }
