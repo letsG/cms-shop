@@ -45,8 +45,8 @@ const ProductEmbedBySubdomain = ({products}: {
             // @ts-ignore
             window.ShopifyBuy.UI.onReady(client).then(function (ui) {
                 ui.createComponent('product', {
-                    id: product.id,
-                    node: document.getElementById(`product-component-${product.productId}`),
+                    id: product?.id,
+                    node: document.getElementById(`product-component-${product?.productId}`),
                     moneyFormat: '%24%7B%7Bamount%7D%7D',
                     options: {
                         "product": {
