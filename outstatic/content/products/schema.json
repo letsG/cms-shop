@@ -8,6 +8,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "product_id"
+    },
+    "id": {
+      "required": true,
+      "description": "shopify embed id",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "id"
     }
   }
 }
