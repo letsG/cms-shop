@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     siteName: 'Flex-Shop.Top',
     images: [
       {
-        url: absoluteUrl('/images/main.png'),
+        url: absoluteUrl('/images/og-image.png'),
         width: 1800,
         height: 1600
       }
