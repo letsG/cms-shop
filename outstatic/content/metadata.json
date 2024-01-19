@@ -1,6 +1,6 @@
 {
-  "commit": "d1f8d270dc6eab9bb98362870e0daa648ce01f0c",
-  "generated": "2024-01-16T20:41:56.752Z",
+  "commit": "1d7e3ad8da0732ae354d5d45a353a87adbb592e4",
+  "generated": "2024-01-19T22:16:26.478Z",
   "metadata": [
     {
       "__outstatic": {
@@ -49,24 +49,6 @@
         }
       ],
       "title": "Learn how to create your blog with Outstatic"
-    },
-    {
-      "__outstatic": {
-        "commit": "2e47122b5b6d49d6d1ddb15bcd33edc4a0c1256e",
-        "hash": "217348983",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
     },
     {
       "__outstatic": {
